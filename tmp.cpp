@@ -1,0 +1,3 @@
+void tmpFunc() {
+//tmpcpp
+}
